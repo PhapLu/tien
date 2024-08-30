@@ -4,7 +4,8 @@ This is the repository for the LinkedIn Learning course Applied Machine Learning
 ![lil-thumbnail-url]
 
 <p>AI models are transforming the workplace. Knowing what’s going behind those models can help you apply machine learning (ML) techniques more effectively. In this course, instructor Matt Harrison shows you how to get started mastering the essentials of machine learning using the power of the Python programming language.</p><p>Explore the fundamentals of an end-to-end machine learning application, as you gain hands-on experience of data exploration, data processing, model creation, model evaluation, model tuning, and model deployment with MLFlow. Along the way, test out your new coding skills in the practice challenges at the end of each section.</p>
-m
+mvdgdgsa
+aSAsadssadsa
 ## Getting Started
 
 This project can be set up and run in two ways: using GitHub Codespaces for a cloud-based environment, or locally on your machine by installing the required dependencies. Follow the instructions below to get started with the method that best suits your needs.
